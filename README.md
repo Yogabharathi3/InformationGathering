@@ -87,6 +87,12 @@ httprint -h 172.17.52.201 -s /usr/share/httprint/signatures.txt -P0 |more
 sudo traceroute -T www.saveetha.ac.in
 ```
 # OUTPUT:
+![238302079-a4c85efc-4084-4513-895e-325f5f53f5f7](https://github.com/Yogabharathi3/InformationGathering/assets/118899387/957d8bb7-2f2d-4219-9da0-1b339d47e168)
+# UDP Traceroute:
+```
+sudo traceroute -U www.saveetha.ac.in
+```
+# OUTPUT:
 ![238302091-8c7b84b9-8045-45c3-ba6a-f2af47f40e5e](https://github.com/Yogabharathi3/InformationGathering/assets/118899387/439068ab-66f2-43a6-8d92-1a7b8504893d)
 # ICMP Traceroute:
 ```
